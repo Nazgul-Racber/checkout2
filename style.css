@@ -47,7 +47,7 @@ main{
     border-top: 1px solid orange;           
 }
 main:hover{
-    /* box-shadow: 5px 5px 30px orange;  */
+    box-shadow: 5px 5px 30px orange; 
 }
 #checout-title{
     margin: 10px;
